@@ -1,7 +1,7 @@
 #### MATTI
 
 <p align="center">
-<img src="https://i.ibb.co/4dRxwx5/MATTI.jpg" alt="jpg" width="8800" height="600"/>
+<img src="https://i.ibb.co/4dRxwx5/MATTI.jpg" alt="jpg" width="800" height="400"/>
 </p>
 <p align="center">
     <img
