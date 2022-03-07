@@ -1,4 +1,4 @@
-#### DARLYN XD
+#### MATTI
 
 <p align="center">
 <img src="https://i.ibb.co/4dRxwx5/MATTI.jpg" alt="jpg" width="8800" height="600"/>
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/darlyn1234"><img title="Creador" src="https://img.shields.io/badge/Author-Darlyn-purple.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/darlyn1234"><img title="Creador" src="https://img.shields.io/badge/Author-MATTI-purple.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-DARLYN IWI-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-MATTI-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&lihttps://youtu.be/n9fUrhPf5-8-8" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 <p align="center">
