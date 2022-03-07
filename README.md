@@ -1,7 +1,7 @@
 #### DARLYN XD
 
 <p align="center">
-<img src="https://github.com/darlyn1234/penexd/blob/master/dararchivos/imagen/sofff.jpg" alt="jpg" width="600" height="600"/>
+<img src="https://i.ibb.co/4dRxwx5/MATTI.jpg" alt="jpg" width="600" height="600"/>
 </p>
 <p align="center">
     <img
@@ -118,18 +118,7 @@
 ///      ////     ///     ///    ///     ///    ///           ///       ///   ///   ///
 //////////        ///     ///    ///      ///   //////////    ///       ///   ////////
 ```
-###### `UWU`
-```
-//////////   ///////////   //////////   /////////   
-//////////   ///////////   ///            ///
-///          ///     ///   ///           ///
-///          ///     ///   /////////     ///
-//////////   ///     ///   /////////     ///
-//////////   ///     ///   ///           ///
-       ///   ///     ///   ///           ///
-//////////   ///////////   ///          ////
-//////////   ///////////   ///      ///////////
-```
+
 ###### `Numero del owner`
 
 <p align='center'>
@@ -140,7 +129,3 @@
 
 * [Instagram](https://instagram.com/)
 * [WAME](https://wa.me/51918303426)
-
-<p align="center">
-<img src="https://github.com/darlyn1234/penexd/blob/master/dararchivos/imagen/mariposazing.jpg" alt="jpg" width="600" height="600"/>
-</p>
